@@ -28,6 +28,10 @@ When looking at it by Gender, there ae more Males making bike trips on all days 
 #### Tableau Story with Analysis
 [Watch the whole story here with analysis](https://public.tableau.com/views/Citibike_Assignment/Citibike_Observations?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+#### Summary
+1. We can see that for a bike sharing model to be successfully implemented in Des Moines, we can decide upon the checkout times for bikes.
+2. Also we need to map out the popular stations from where trips happen most
+3. Similarly see where most trips end at which station.
 
 
 
