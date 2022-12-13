@@ -14,7 +14,8 @@ Link to dashboard 1 with checkout times
 Dashboard with checkout times
 
 
-[Dashboard with checkout times](https://public.tableau.com/app/profile/shilpa6369/viz/Citibike_Assignment/Citibike_Observations?publish=yes)
+[Dashboard with checkout times]
+(https://public.tableau.com/views/Citibike_Assignment/CheckoutTimesforUsersandbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Bike Trips per Weekday based upon Users and Gender
 
@@ -23,7 +24,8 @@ This is true for all weekdays. On weekends, Saturday is when there are more Bike
 When looking at it by Gender, there ae more Males making bike trips on all days of a week versus others.
 
 
-[Dashboard 2 with checkout times](https://public.tableau.com/app/profile/shilpa6369/viz/Citibike_Assignment/Citibike_Observations?publish=yes)
+[Dashboard with Bike trips By Gender By User on Weekdays](https://public.tableau.com/views/Citibike_Assignment/Biketripsbygenderandbyusers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 
 
 
