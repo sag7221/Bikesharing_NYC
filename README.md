@@ -25,6 +25,9 @@ When looking at it by Gender, there ae more Males making bike trips on all days 
 
 [Dashboard with Bike trips By Gender By User on Weekdays](https://public.tableau.com/views/Citibike_Assignment/Biketripsbygenderandbyusers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+#### Tableau Story with Analysis
+[Watch the whole story here with analysis](https://public.tableau.com/views/Citibike_Assignment/Citibike_Observations?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 
