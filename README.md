@@ -14,8 +14,7 @@ Link to dashboard 1 with checkout times
 Dashboard with checkout times
 
 
-[Dashboard with checkout times]
-(https://public.tableau.com/views/Citibike_Assignment/CheckoutTimesforUsersandbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Dashboard with checkout times](https://public.tableau.com/views/Citibike_Assignment/CheckoutTimesforUsersandbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Bike Trips per Weekday based upon Users and Gender
 
